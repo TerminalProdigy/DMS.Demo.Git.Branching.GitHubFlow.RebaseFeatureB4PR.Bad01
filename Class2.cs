@@ -10,5 +10,6 @@ namespace DMS.Demo.Git.Branching.GitHubFlow.RebaseFeatureB4PR.Bad01
     {
         // Branch: feature/foo | Commit #1
         // Branch: feature/foo | Commit #3
+        // Branch: feature/foo | Commit #4
     }
 }
