@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.Demo.Git.Branching.GitHubFlow.RebaseFeatureB4PR.Bad01", "DMS.Demo.Git.Branching.GitHubFlow.RebaseFeatureB4PR.Bad01.csproj", "{0147CDE8-40C8-4F5C-B0BF-5D230FA6EF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0147CDE8-40C8-4F5C-B0BF-5D230FA6EF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0147CDE8-40C8-4F5C-B0BF-5D230FA6EF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0147CDE8-40C8-4F5C-B0BF-5D230FA6EF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0147CDE8-40C8-4F5C-B0BF-5D230FA6EF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55E5CE1-3601-49EF-9DA3-0008E983C4EA}
+	EndGlobalSection
+EndGlobal
